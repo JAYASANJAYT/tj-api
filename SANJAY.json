@@ -1,7 +1,7 @@
  [
       {
         "id": 1,
-        "name": "Sanjay",
+        "name": "gurusakthi",
         "username": "Bret",
         "email": "Sincere@april.biz",
         "address": { "city": "Gwenborough" },
@@ -11,7 +11,7 @@
       },
       {
         "id": 2,
-        "name": "Immanuvel",
+        "name": "dinesh",
         "username": "Antonette",
         "email": "Shanna@melissa.tv",
         "address": { "city": "Wisokyburgh" },
@@ -39,4 +39,5 @@
         "website": "kale.biz",
         "company": { "name": "Robel-Corkery" }
       }
+
     ]
